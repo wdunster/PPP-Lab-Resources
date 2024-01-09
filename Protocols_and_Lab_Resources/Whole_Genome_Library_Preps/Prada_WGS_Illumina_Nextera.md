@@ -1,9 +1,9 @@
 # Low Coverage Whole Genome Sequencing Library Prep Protocol
 
-Protocol is a mix of 1/7th reactions from Nextera XT and recommendations from [Kishony et. al](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0128036)
+Protocol is a mix of 1/7th or 1/5th reactions from Nextera XT and recommendations from [Kishony et. al](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0128036)
 
 Prada Lab
-Last Update 20210812 Maggie Schedl
+Last Update 01/09/24 WD
 
 **Materials**
 
@@ -120,6 +120,14 @@ Last Update 20210812 Maggie Schedl
 - Work at the Pre-PCR Prada Lab bench
 
 **Steps**
+| Reagent | 1/7th uL | 1/5th uL | 
+|---------|----------|----------|
+| TD      | 1.42     | 2.13     |
+| DNA     | 0.7      | 1.05     |
+| ATM     | 0.7      | 1.05     |
+| NT      | 0.7      | 1.05     |
+| Index   | 1.42     | 2.13     | 
+| NPM     | 2.14     | 3.21     | 
 
 - Thaw TD on ice, once thawed, invert 3 times then centrifuge to collect
 - Thaw ATM on ice, once thawed, invert 3 times then centrifuge to collect
